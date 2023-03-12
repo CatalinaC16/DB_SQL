@@ -1,1 +1,1 @@
-An implementation of a DB and some queries on it.
+An implementation of a DB and some queries on it in SQL.
